@@ -1,0 +1,103 @@
+body {
+  height: 100%;
+  background: none, none rgb(186, 214, 216);
+  background-repeat: repeat, no-repeat;
+  background-size: auto auto, auto auto;
+  background-position: center center, center center;
+  background-attachment: scroll, scroll;
+  font: 400 1.125em/1.38 Verdana;
+  color: rgb(6, 46, 77);
+}
+
+.element {
+  float: left;
+  clear: both;
+  width: 56%;
+  height: 195px;
+  margin: 10px 0 0 22%;
+  border: 1px solid rgb(0, 0, 0);
+  background: url('../images/P5160129.JPG') rgb(222, 222, 222);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 52%;
+  background-attachment: fixed;
+}
+
+.text {
+  float: left;
+  font-style: italic;
+  color: rgb(6, 46, 77);
+}
+
+.text-1 {
+  width: 49.1666666666%;
+  min-height: 56px;
+  margin: 10px 0 0 28.83073%;
+  border-bottom: 1px solid rgb(6, 46, 77);
+  font-size: 2.833em;
+}
+
+.text-2 {
+  clear: both;
+  width: 42.4166666666%;
+  min-height: 25px;
+  margin: 7px 0 0 28.83073%;
+  font-size: 1.056em;
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 7;
+  width: 28.8333333333%;
+  min-height: 32px;
+  margin: 12px 0 0 22%;
+  font-size: 1.944em;
+}
+
+.text-4 {
+  position: relative;
+  z-index: 8;
+  width: 28.8333333333%;
+  min-height: 32px;
+  margin: 12px 0 0 5.16667%;
+  font-size: 1.944em;
+}
+
+.text-5 {
+  position: relative;
+  clear: both;
+  z-index: 2;
+  width: 28.8333333333%;
+  min-height: 32px;
+  margin: 18px 0 0 22%;
+  font-size: 1em;
+}
+
+.text-6 {
+  position: relative;
+  z-index: 3;
+  width: 27.1666666666%;
+  min-height: 32px;
+  margin: 18px 0 0 5.16667%;
+  font-size: 1em;
+}
+
+.text-7 {
+  position: relative;
+  clear: both;
+  z-index: 4;
+  width: 28.8333333333%;
+  min-height: 32px;
+  margin: 46px 0 0 22%;
+  font-size: 1em;
+}
+
+.text-8 {
+  position: relative;
+  z-index: 5;
+  width: 27.1666666666%;
+  min-height: 32px;
+  margin: 45px 0 0 5.16667%;
+  font-size: 1em;
+}
