@@ -1,5 +1,30 @@
-body {background-color: #cccccc;}
+body {
+      background-color: #cccccc;
+      padding-top: 54px;
+}
 
-.container {background-color: #ffffff;}
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
 
-a.navbar-brand {color: navy;}
+
+a.navbar-brand {}
+
+
+.fa {
+    margin: 5px;
+  }
+
+.fa-facebook-square {
+  color: #ffffff;
+}
+
+.fa-vk {
+  color: #ffffff;
+}
+
+.fa-instagram {
+  color: #ffffff;
+}
