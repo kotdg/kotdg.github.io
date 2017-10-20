@@ -33,6 +33,38 @@ a.navbar-brand {}
   margin-bottom: 100px;
 }
 
+.marketing  {
+    margin-top: 50px;
+}
+
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: normal;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+
 .fa {
     margin: 5px;
   }
