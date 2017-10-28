@@ -716,38 +716,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Карпатос</name>
-        <styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            27.215075,35.508675,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>Вулкан </name>
         <styleUrl>#icon-619-nodesc</styleUrl>
         <Point>
           <coordinates>
             27.1672876,36.5912735,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Вулкан</name>
-        <styleUrl>#icon-619-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            25.392296,36.402909,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Санторини</name>
-        <styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            25.425268,36.418243,0
           </coordinates>
         </Point>
       </Placemark>
@@ -929,15 +902,6 @@
         <Point>
           <coordinates>
             27.2886657,36.8928013,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Св. Николай</name>
-        <styleUrl>#icon-503-3F5BA9-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            25.7174063,35.1862956,0
           </coordinates>
         </Point>
       </Placemark>
