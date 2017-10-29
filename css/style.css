@@ -15,6 +15,7 @@ body {
 }
 
 .logo {
+        padding-top: 3px;
         font-size: 1.7em;
         font-family: 'Didact Gothic', verdana;
             }
@@ -52,6 +53,7 @@ a.navbar-brand {}
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
+  text-align: justify;
 }
 
 .featurette-divider {
