@@ -44,7 +44,7 @@ a.navbar-brand {}
 }
 
 .marketing .col-lg-4 {
-  margin-bottom: 1.5rem;
+  margin-bottom: 20px;
   text-align: center;
 }
 .marketing h2 {
@@ -57,7 +57,7 @@ a.navbar-brand {}
 }
 
 .featurette-divider {
-  margin: 4rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 2rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
